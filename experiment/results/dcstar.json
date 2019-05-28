@@ -1,0 +1,1269 @@
+{
+    "stats": {
+        "iscas85-mobs/c3540/c3540mut245n.wcnf": {
+            "status": true,
+            "rtime": 1376.39,
+            "mempeak": "57820 KiB",
+            "garbage": 40,
+            "cdiags": 140,
+            "diags": 100,
+            "idiags": 4670
+        },
+        "iscas85-mobs/c880/c880mut279n.wcnf": {
+            "status": true,
+            "rtime": 29.492,
+            "mempeak": "50248 KiB",
+            "garbage": 199,
+            "cdiags": 223,
+            "diags": 24,
+            "idiags": 1744
+        },
+        "iscas85-mobs/c499/c499mut346n.wcnf": {
+            "status": true,
+            "rtime": 6.556,
+            "mempeak": "49608 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c880/c880mut597p.wcnf": {
+            "status": true,
+            "rtime": 31.864,
+            "mempeak": "50484 KiB",
+            "garbage": 0,
+            "cdiags": 38,
+            "diags": 38,
+            "idiags": 4256
+        },
+        "iscas85-mobs/c880/c880mut525p.wcnf": {
+            "status": true,
+            "rtime": 33.548,
+            "mempeak": "50480 KiB",
+            "garbage": 1640,
+            "cdiags": 1675,
+            "diags": 35,
+            "idiags": 1640
+        },
+        "iscas85-mobs/c880/c880mut275p.wcnf": {
+            "status": true,
+            "rtime": 30.4,
+            "mempeak": "50240 KiB",
+            "garbage": 0,
+            "cdiags": 21,
+            "diags": 21,
+            "idiags": 2036
+        },
+        "iscas85-mobs/c499/c499mut324n.wcnf": {
+            "status": true,
+            "rtime": 6.548,
+            "mempeak": "49640 KiB",
+            "garbage": 0,
+            "cdiags": 17,
+            "diags": 17,
+            "idiags": 300
+        },
+        "iscas85-mobs/c1908/c1908mut1012n.wcnf": {
+            "status": true,
+            "rtime": 256.016,
+            "mempeak": "52228 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c1908/c1908mut1258p.wcnf": {
+            "status": true,
+            "rtime": 261.42,
+            "mempeak": "52104 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 852
+        },
+        "iscas85-mobs/c1908/c1908mut978n.wcnf": {
+            "status": true,
+            "rtime": 256.496,
+            "mempeak": "52084 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c1908/c1908mut270n.wcnf": {
+            "status": true,
+            "rtime": 256.768,
+            "mempeak": "52084 KiB",
+            "garbage": 0,
+            "cdiags": 7,
+            "diags": 7,
+            "idiags": 700
+        },
+        "iscas85-mobs/c432/c432mut269p.wcnf": {
+            "status": true,
+            "rtime": 4.068,
+            "mempeak": "49540 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c432/c432mut273n.wcnf": {
+            "status": true,
+            "rtime": 3.816,
+            "mempeak": "49516 KiB",
+            "garbage": 0,
+            "cdiags": 2,
+            "diags": 2,
+            "idiags": 200
+        },
+        "iscas85-mobs/c1908/c1908mut1254p.wcnf": {
+            "status": true,
+            "rtime": 264.072,
+            "mempeak": "52480 KiB",
+            "garbage": 0,
+            "cdiags": 35,
+            "diags": 35,
+            "idiags": 1260
+        },
+        "iscas85-mobs/c499/c499mut252n.wcnf": {
+            "status": true,
+            "rtime": 6.884,
+            "mempeak": "49620 KiB",
+            "garbage": 0,
+            "cdiags": 10,
+            "diags": 10,
+            "idiags": 400
+        },
+        "iscas85-mobs/c3540/c3540mut101n.wcnf": {
+            "status": true,
+            "rtime": 1399.06,
+            "mempeak": "54784 KiB",
+            "garbage": 0,
+            "cdiags": 67,
+            "diags": 67,
+            "idiags": 6697
+        },
+        "iscas85-mobs/c1908/c1908mut1436n.wcnf": {
+            "status": true,
+            "rtime": 255.94,
+            "mempeak": "52040 KiB",
+            "garbage": 0,
+            "cdiags": 36,
+            "diags": 36,
+            "idiags": 929
+        },
+        "iscas85-mobs/c880/c880mut765n.wcnf": {
+            "status": true,
+            "rtime": 31.088,
+            "mempeak": "50480 KiB",
+            "garbage": 0,
+            "cdiags": 89,
+            "diags": 89,
+            "idiags": 3751
+        },
+        "iscas85-mobs/c1908/c1908mut1248n.wcnf": {
+            "status": true,
+            "rtime": 263.84,
+            "mempeak": "52112 KiB",
+            "garbage": 211,
+            "cdiags": 247,
+            "diags": 36,
+            "idiags": 832
+        },
+        "iscas85-mobs/c2670/c2670mut672n.wcnf": {
+            "status": true,
+            "rtime": 569.892,
+            "mempeak": "53312 KiB",
+            "garbage": 0,
+            "cdiags": 13,
+            "diags": 13,
+            "idiags": 984
+        },
+        "iscas85-mobs/c880/c880mut479p.wcnf": {
+            "status": true,
+            "rtime": 29.676,
+            "mempeak": "50504 KiB",
+            "garbage": 692,
+            "cdiags": 729,
+            "diags": 37,
+            "idiags": 2519
+        },
+        "iscas85-mobs/c880/c880mut473n.wcnf": {
+            "status": true,
+            "rtime": 29.84,
+            "mempeak": "50228 KiB",
+            "garbage": 63,
+            "cdiags": 94,
+            "diags": 31,
+            "idiags": 2603
+        },
+        "iscas85-mobs/c499/c499mut392n.wcnf": {
+            "status": true,
+            "rtime": 6.46,
+            "mempeak": "49868 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c880/c880mut241p.wcnf": {
+            "status": true,
+            "rtime": 30.416,
+            "mempeak": "50132 KiB",
+            "garbage": 125,
+            "cdiags": 173,
+            "diags": 48,
+            "idiags": 3244
+        },
+        "iscas85-mobs/c2670/c2670mut1566n.wcnf": {
+            "status": true,
+            "rtime": 576.208,
+            "mempeak": "53324 KiB",
+            "garbage": 0,
+            "cdiags": 35,
+            "diags": 35,
+            "idiags": 3299
+        },
+        "iscas85-mobs/c1908/c1908mut1442n.wcnf": {
+            "status": false,
+            "rtime": 1800.02,
+            "mempeak": "225464 KiB",
+            "diags": 6
+        },
+        "iscas85-mobs/c1908/c1908mut1340p.wcnf": {
+            "status": true,
+            "rtime": 264.836,
+            "mempeak": "52232 KiB",
+            "garbage": 0,
+            "cdiags": 35,
+            "diags": 35,
+            "idiags": 1388
+        },
+        "iscas85-mobs/c880/c880mut239p.wcnf": {
+            "status": true,
+            "rtime": 29.84,
+            "mempeak": "50132 KiB",
+            "garbage": 20,
+            "cdiags": 42,
+            "diags": 22,
+            "idiags": 2099
+        },
+        "iscas85-mobs/c2670/c2670mut1308p.wcnf": {
+            "status": true,
+            "rtime": 592.348,
+            "mempeak": "53432 KiB",
+            "garbage": 0,
+            "cdiags": 39,
+            "diags": 39,
+            "idiags": 3850
+        },
+        "iscas85-mobs/c880/c880mut237p.wcnf": {
+            "status": true,
+            "rtime": 39.388,
+            "mempeak": "50992 KiB",
+            "garbage": 5627,
+            "cdiags": 5660,
+            "diags": 33,
+            "idiags": 2613
+        },
+        "iscas85-mobs/c499/c499mut408p.wcnf": {
+            "status": true,
+            "rtime": 6.4,
+            "mempeak": "49648 KiB",
+            "garbage": 0,
+            "cdiags": 2,
+            "diags": 2,
+            "idiags": 200
+        },
+        "iscas85-mobs/c880/c880mut507p.wcnf": {
+            "status": true,
+            "rtime": 30.188,
+            "mempeak": "50484 KiB",
+            "garbage": 384,
+            "cdiags": 419,
+            "diags": 35,
+            "idiags": 2729
+        },
+        "iscas85-mobs/c1908/c1908mut1338n.wcnf": {
+            "status": false,
+            "rtime": 1800.01,
+            "mempeak": "52372 KiB",
+            "diags": 36,
+            "idiags": 1120
+        },
+        "iscas85-mobs/c880/c880mut259p.wcnf": {
+            "status": true,
+            "rtime": 35.124,
+            "mempeak": "58292 KiB",
+            "garbage": 17706,
+            "cdiags": 17758,
+            "diags": 52,
+            "idiags": 2469
+        },
+        "iscas85-mobs/c880/c880mut267p.wcnf": {
+            "status": false,
+            "rtime": 1800.09,
+            "mempeak": "50752 KiB",
+            "diags": 43,
+            "idiags": 2051
+        },
+        "iscas85-mobs/c880/c880mut479n.wcnf": {
+            "status": true,
+            "rtime": 30.172,
+            "mempeak": "50236 KiB",
+            "garbage": 173,
+            "cdiags": 208,
+            "diags": 35,
+            "idiags": 2612
+        },
+        "iscas85-mobs/c1908/c1908mut1150n.wcnf": {
+            "status": true,
+            "rtime": 255.948,
+            "mempeak": "52248 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c499/c499mut150n.wcnf": {
+            "status": true,
+            "rtime": 6.456,
+            "mempeak": "49648 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c1908/c1908mut1432n.wcnf": {
+            "status": true,
+            "rtime": 257.984,
+            "mempeak": "52360 KiB",
+            "garbage": 0,
+            "cdiags": 36,
+            "diags": 36,
+            "idiags": 1736
+        },
+        "iscas85-mobs/c2670/c2670mut1336p.wcnf": {
+            "status": true,
+            "rtime": 578.308,
+            "mempeak": "53400 KiB",
+            "garbage": 4258,
+            "cdiags": 4337,
+            "diags": 79,
+            "idiags": 3750
+        },
+        "iscas85-mobs/c499/c499mut288n.wcnf": {
+            "status": true,
+            "rtime": 6.596,
+            "mempeak": "49740 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c1908/c1908mut1404p.wcnf": {
+            "status": true,
+            "rtime": 262.384,
+            "mempeak": "52336 KiB",
+            "garbage": 0,
+            "cdiags": 35,
+            "diags": 35,
+            "idiags": 1628
+        },
+        "iscas85-mobs/c3540/c3540mut255n.wcnf": {
+            "status": true,
+            "rtime": 1414.1,
+            "mempeak": "54744 KiB",
+            "garbage": 40,
+            "cdiags": 139,
+            "diags": 99,
+            "idiags": 7271
+        },
+        "iscas85-mobs/c880/c880mut709n.wcnf": {
+            "status": true,
+            "rtime": 30.18,
+            "mempeak": "50268 KiB",
+            "garbage": 0,
+            "cdiags": 29,
+            "diags": 29,
+            "idiags": 2588
+        },
+        "iscas85-mobs/c499/c499mut286n.wcnf": {
+            "status": true,
+            "rtime": 6.58,
+            "mempeak": "49780 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c1908/c1908mut1442p.wcnf": {
+            "status": true,
+            "rtime": 254.7,
+            "mempeak": "52388 KiB",
+            "garbage": 0,
+            "cdiags": 39,
+            "diags": 39,
+            "idiags": 1492
+        },
+        "iscas85-mobs/c1908/c1908mut1410n.wcnf": {
+            "status": true,
+            "rtime": 254.492,
+            "mempeak": "52048 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c17/c17mut14p.wcnf": {
+            "status": true,
+            "rtime": 0.036,
+            "mempeak": "0 KiB",
+            "garbage": 0,
+            "cdiags": 3,
+            "diags": 3,
+            "idiags": 18
+        },
+        "iscas85-mobs/c1908/c1908mut1322n.wcnf": {
+            "status": true,
+            "rtime": 255.952,
+            "mempeak": "55784 KiB",
+            "garbage": 0,
+            "cdiags": 40,
+            "diags": 40,
+            "idiags": 1328
+        },
+        "iscas85-mobs/c499/c499mut266n.wcnf": {
+            "status": true,
+            "rtime": 6.6,
+            "mempeak": "49740 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c2670/c2670mut1470p.wcnf": {
+            "status": true,
+            "rtime": 580.124,
+            "mempeak": "53484 KiB",
+            "garbage": 0,
+            "cdiags": 44,
+            "diags": 44,
+            "idiags": 4400
+        },
+        "iscas85-mobs/c880/c880mut239n.wcnf": {
+            "status": true,
+            "rtime": 30.28,
+            "mempeak": "50224 KiB",
+            "garbage": 22,
+            "cdiags": 50,
+            "diags": 28,
+            "idiags": 2920
+        },
+        "iscas85-mobs/c1908/c1908mut770p.wcnf": {
+            "status": false,
+            "rtime": 1800.1,
+            "mempeak": "200928 KiB",
+            "diags": 40
+        },
+        "iscas85-mobs/c880/c880mut249p.wcnf": {
+            "status": true,
+            "rtime": 29.548,
+            "mempeak": "50208 KiB",
+            "garbage": 0,
+            "cdiags": 25,
+            "diags": 25,
+            "idiags": 2042
+        },
+        "iscas85-mobs/c2670/c2670mut1402p.wcnf": {
+            "status": true,
+            "rtime": 580.416,
+            "mempeak": "53444 KiB",
+            "garbage": 0,
+            "cdiags": 41,
+            "diags": 41,
+            "idiags": 4082
+        },
+        "iscas85-mobs/c499/c499mut372n.wcnf": {
+            "status": true,
+            "rtime": 6.428,
+            "mempeak": "49640 KiB",
+            "garbage": 0,
+            "cdiags": 17,
+            "diags": 17,
+            "idiags": 300
+        },
+        "iscas85-mobs/c432/c432mut285p.wcnf": {
+            "status": true,
+            "rtime": 115.5,
+            "mempeak": "76248 KiB",
+            "garbage": 0,
+            "cdiags": 8,
+            "diags": 8,
+            "idiags": 131310
+        },
+        "iscas85-mobs/c880/c880mut499n.wcnf": {
+            "status": true,
+            "rtime": 29.552,
+            "mempeak": "50212 KiB",
+            "garbage": 0,
+            "cdiags": 26,
+            "diags": 26,
+            "idiags": 2472
+        },
+        "iscas85-mobs/c499/c499mut268n.wcnf": {
+            "status": true,
+            "rtime": 6.612,
+            "mempeak": "49640 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 300
+        },
+        "iscas85-mobs/c1908/c1908mut1454p.wcnf": {
+            "status": true,
+            "rtime": 273.572,
+            "mempeak": "55536 KiB",
+            "garbage": 130,
+            "cdiags": 165,
+            "diags": 35,
+            "idiags": 914
+        },
+        "iscas85-mobs/c432/c432mut281n.wcnf": {
+            "status": true,
+            "rtime": 3.872,
+            "mempeak": "49556 KiB",
+            "garbage": 0,
+            "cdiags": 2,
+            "diags": 2,
+            "idiags": 200
+        },
+        "iscas85-mobs/c1908/c1908mut1136n.wcnf": {
+            "status": true,
+            "rtime": 256.208,
+            "mempeak": "52000 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c3540/c3540mut185n.wcnf": {
+            "status": true,
+            "rtime": 1343.68,
+            "mempeak": "54116 KiB",
+            "garbage": 0,
+            "cdiags": 2,
+            "diags": 2,
+            "idiags": 200
+        },
+        "iscas85-mobs/c499/c499mut394n.wcnf": {
+            "status": true,
+            "rtime": 6.456,
+            "mempeak": "49644 KiB",
+            "garbage": 0,
+            "cdiags": 17,
+            "diags": 17,
+            "idiags": 300
+        },
+        "iscas85-mobs/c1908/c1908mut1476p.wcnf": {
+            "status": true,
+            "rtime": 258.456,
+            "mempeak": "51964 KiB",
+            "garbage": 76,
+            "cdiags": 111,
+            "diags": 35,
+            "idiags": 804
+        },
+        "iscas85-mobs/c880/c880mut491p.wcnf": {
+            "status": true,
+            "rtime": 29.524,
+            "mempeak": "50184 KiB",
+            "garbage": 9,
+            "cdiags": 30,
+            "diags": 21,
+            "idiags": 2018
+        },
+        "iscas85-mobs/c880/c880mut281n.wcnf": {
+            "status": true,
+            "rtime": 30.012,
+            "mempeak": "50092 KiB",
+            "garbage": 133,
+            "cdiags": 158,
+            "diags": 25,
+            "idiags": 1700
+        },
+        "iscas85-mobs/c880/c880mut231p.wcnf": {
+            "status": false,
+            "rtime": 1800.06,
+            "mempeak": "55944 KiB",
+            "diags": 65,
+            "idiags": 2586
+        },
+        "iscas85-mobs/c499/c499mut390n.wcnf": {
+            "status": true,
+            "rtime": 6.576,
+            "mempeak": "53896 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c7552/c7552mut5646n.wcnf": {
+            "status": false,
+            "rtime": 1800.1,
+            "mempeak": "61684 KiB",
+            "diags": 2
+        },
+        "iscas85-mobs/c499/c499mut350n.wcnf": {
+            "status": true,
+            "rtime": 6.436,
+            "mempeak": "49640 KiB",
+            "garbage": 0,
+            "cdiags": 17,
+            "diags": 17,
+            "idiags": 300
+        },
+        "iscas85-mobs/c880/c880mut181p.wcnf": {
+            "status": false,
+            "rtime": 1800.09,
+            "mempeak": "225616 KiB",
+            "diags": 12
+        },
+        "iscas85-mobs/c880/c880mut253p.wcnf": {
+            "status": true,
+            "rtime": 29.52,
+            "mempeak": "50216 KiB",
+            "garbage": 50,
+            "cdiags": 69,
+            "diags": 19,
+            "idiags": 1681
+        },
+        "iscas85-mobs/c880/c880mut441n.wcnf": {
+            "status": true,
+            "rtime": 30.236,
+            "mempeak": "50224 KiB",
+            "garbage": 0,
+            "cdiags": 34,
+            "diags": 34,
+            "idiags": 2776
+        },
+        "iscas85-mobs/c1908/c1908mut1474n.wcnf": {
+            "status": true,
+            "rtime": 255.444,
+            "mempeak": "52116 KiB",
+            "garbage": 0,
+            "cdiags": 36,
+            "diags": 36,
+            "idiags": 1162
+        },
+        "iscas85-mobs/c499/c499mut370n.wcnf": {
+            "status": true,
+            "rtime": 6.736,
+            "mempeak": "49644 KiB",
+            "garbage": 0,
+            "cdiags": 10,
+            "diags": 10,
+            "idiags": 400
+        },
+        "iscas85-mobs/c880/c880mut481p.wcnf": {
+            "status": true,
+            "rtime": 30.4,
+            "mempeak": "50228 KiB",
+            "garbage": 0,
+            "cdiags": 31,
+            "diags": 31,
+            "idiags": 2500
+        },
+        "iscas85-mobs/c2670/c2670mut1562p.wcnf": {
+            "status": true,
+            "rtime": 590.492,
+            "mempeak": "53408 KiB",
+            "garbage": 1734,
+            "cdiags": 1826,
+            "diags": 92,
+            "idiags": 4057
+        },
+        "iscas85-mobs/c2670/c2670mut1516p.wcnf": {
+            "status": true,
+            "rtime": 591.528,
+            "mempeak": "53372 KiB",
+            "garbage": 0,
+            "cdiags": 58,
+            "diags": 58,
+            "idiags": 3800
+        },
+        "iscas85-mobs/c1908/c1908mut994n.wcnf": {
+            "status": true,
+            "rtime": 255.744,
+            "mempeak": "52116 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c880/c880mut245n.wcnf": {
+            "status": true,
+            "rtime": 30.452,
+            "mempeak": "50500 KiB",
+            "garbage": 0,
+            "cdiags": 37,
+            "diags": 37,
+            "idiags": 3158
+        },
+        "iscas85-mobs/c1908/c1908mut1438p.wcnf": {
+            "status": true,
+            "rtime": 256.732,
+            "mempeak": "52244 KiB",
+            "garbage": 0,
+            "cdiags": 35,
+            "diags": 35,
+            "idiags": 1228
+        },
+        "iscas85-mobs/c499/c499mut120n.wcnf": {
+            "status": true,
+            "rtime": 7.368,
+            "mempeak": "49652 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c880/c880mut473p.wcnf": {
+            "status": true,
+            "rtime": 30.432,
+            "mempeak": "50496 KiB",
+            "garbage": 1607,
+            "cdiags": 1644,
+            "diags": 37,
+            "idiags": 2480
+        },
+        "iscas85-mobs/c880/c880mut493n.wcnf": {
+            "status": true,
+            "rtime": 29.532,
+            "mempeak": "54264 KiB",
+            "garbage": 0,
+            "cdiags": 22,
+            "diags": 22,
+            "idiags": 1600
+        },
+        "iscas85-mobs/c499/c499mut368n.wcnf": {
+            "status": true,
+            "rtime": 6.5,
+            "mempeak": "49608 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c880/c880mut519p.wcnf": {
+            "status": true,
+            "rtime": 29.192,
+            "mempeak": "50220 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 1760
+        },
+        "iscas85-mobs/c499/c499mut416n.wcnf": {
+            "status": true,
+            "rtime": 6.52,
+            "mempeak": "49644 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c880/c880mut485p.wcnf": {
+            "status": true,
+            "rtime": 30.2,
+            "mempeak": "50220 KiB",
+            "garbage": 20,
+            "cdiags": 50,
+            "diags": 30,
+            "idiags": 2812
+        },
+        "iscas85-mobs/c499/c499mut240n.wcnf": {
+            "status": true,
+            "rtime": 6.428,
+            "mempeak": "49644 KiB",
+            "garbage": 0,
+            "cdiags": 17,
+            "diags": 17,
+            "idiags": 300
+        },
+        "iscas85-mobs/c2670/c2670mut1572p.wcnf": {
+            "status": true,
+            "rtime": 581.68,
+            "mempeak": "53380 KiB",
+            "garbage": 26,
+            "cdiags": 71,
+            "diags": 45,
+            "idiags": 3394
+        },
+        "iscas85-mobs/c880/c880mut277p.wcnf": {
+            "status": true,
+            "rtime": 29.676,
+            "mempeak": "50216 KiB",
+            "garbage": 483,
+            "cdiags": 516,
+            "diags": 33,
+            "idiags": 1968
+        },
+        "iscas85-mobs/c880/c880mut331p.wcnf": {
+            "status": true,
+            "rtime": 31.02,
+            "mempeak": "50232 KiB",
+            "garbage": 0,
+            "cdiags": 38,
+            "diags": 38,
+            "idiags": 3228
+        },
+        "iscas85-mobs/c17/c17mut6p.wcnf": {
+            "status": true,
+            "rtime": 0.036,
+            "mempeak": "0 KiB",
+            "garbage": 0,
+            "cdiags": 3,
+            "diags": 3,
+            "idiags": 20
+        },
+        "iscas85-mobs/c2670/c2670mut1322p.wcnf": {
+            "status": true,
+            "rtime": 582.272,
+            "mempeak": "53324 KiB",
+            "garbage": 0,
+            "cdiags": 39,
+            "diags": 39,
+            "idiags": 3730
+        },
+        "iscas85-mobs/c1908/c1908mut1398n.wcnf": {
+            "status": true,
+            "rtime": 255.12,
+            "mempeak": "52304 KiB",
+            "garbage": 0,
+            "cdiags": 36,
+            "diags": 36,
+            "idiags": 1153
+        },
+        "iscas85-mobs/c1908/c1908mut958n.wcnf": {
+            "status": true,
+            "rtime": 260.64,
+            "mempeak": "55496 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c1908/c1908mut1426n.wcnf": {
+            "status": false,
+            "rtime": 1800.09,
+            "mempeak": "215876 KiB",
+            "diags": 6
+        },
+        "iscas85-mobs/c499/c499mut250n.wcnf": {
+            "status": true,
+            "rtime": 6.428,
+            "mempeak": "49644 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c499/c499mut254n.wcnf": {
+            "status": true,
+            "rtime": 6.4,
+            "mempeak": "49604 KiB",
+            "garbage": 0,
+            "cdiags": 17,
+            "diags": 17,
+            "idiags": 300
+        },
+        "iscas85-mobs/c1908/c1908mut1122n.wcnf": {
+            "status": true,
+            "rtime": 259.648,
+            "mempeak": "51960 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c880/c880mut327p.wcnf": {
+            "status": true,
+            "rtime": 28.888,
+            "mempeak": "50260 KiB",
+            "garbage": 702,
+            "cdiags": 759,
+            "diags": 57,
+            "idiags": 1095
+        },
+        "iscas85-mobs/c880/c880mut421n.wcnf": {
+            "status": true,
+            "rtime": 31.124,
+            "mempeak": "50380 KiB",
+            "garbage": 0,
+            "cdiags": 42,
+            "diags": 42,
+            "idiags": 3576
+        },
+        "iscas85-mobs/c1908/c1908mut1780n.wcnf": {
+            "status": true,
+            "rtime": 257.612,
+            "mempeak": "55696 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c1908/c1908mut1252n.wcnf": {
+            "status": true,
+            "rtime": 255.568,
+            "mempeak": "52248 KiB",
+            "garbage": 0,
+            "cdiags": 36,
+            "diags": 36,
+            "idiags": 1249
+        },
+        "iscas85-mobs/c17/c17mut8n.wcnf": {
+            "status": true,
+            "rtime": 0.048,
+            "mempeak": "0 KiB",
+            "garbage": 1,
+            "cdiags": 9,
+            "diags": 8,
+            "idiags": 92
+        },
+        "iscas85-mobs/c2670/c2670mut1564p.wcnf": {
+            "status": true,
+            "rtime": 574.792,
+            "mempeak": "53508 KiB",
+            "garbage": 0,
+            "cdiags": 38,
+            "diags": 38,
+            "idiags": 3212
+        },
+        "iscas85-mobs/c1908/c1908mut1334n.wcnf": {
+            "status": true,
+            "rtime": 254.516,
+            "mempeak": "52144 KiB",
+            "garbage": 0,
+            "cdiags": 12,
+            "diags": 12,
+            "idiags": 816
+        },
+        "iscas85-mobs/c1908/c1908mut1080n.wcnf": {
+            "status": true,
+            "rtime": 270.616,
+            "mempeak": "51992 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c880/c880mut187p.wcnf": {
+            "status": true,
+            "rtime": 30.728,
+            "mempeak": "50248 KiB",
+            "garbage": 0,
+            "cdiags": 34,
+            "diags": 34,
+            "idiags": 2825
+        },
+        "iscas85-mobs/c2670/c2670mut1572n.wcnf": {
+            "status": true,
+            "rtime": 572.752,
+            "mempeak": "53376 KiB",
+            "garbage": 0,
+            "cdiags": 41,
+            "diags": 41,
+            "idiags": 3500
+        },
+        "iscas85-mobs/c880/c880mut273p.wcnf": {
+            "status": false,
+            "rtime": 1800.08,
+            "mempeak": "50756 KiB",
+            "diags": 45,
+            "idiags": 1985
+        },
+        "iscas85-mobs/c2670/c2670mut974n.wcnf": {
+            "status": true,
+            "rtime": 566.752,
+            "mempeak": "52980 KiB",
+            "garbage": 0,
+            "cdiags": 11,
+            "diags": 11,
+            "idiags": 315
+        },
+        "iscas85-mobs/c880/c880mut693p.wcnf": {
+            "status": true,
+            "rtime": 29.176,
+            "mempeak": "50264 KiB",
+            "garbage": 0,
+            "cdiags": 7,
+            "diags": 7,
+            "idiags": 496
+        },
+        "iscas85-mobs/c1908/c1908mut1452n.wcnf": {
+            "status": true,
+            "rtime": 261.56,
+            "mempeak": "52468 KiB",
+            "garbage": 0,
+            "cdiags": 36,
+            "diags": 36,
+            "idiags": 1108
+        },
+        "iscas85-mobs/c499/c499mut264n.wcnf": {
+            "status": true,
+            "rtime": 6.644,
+            "mempeak": "49608 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c880/c880mut487p.wcnf": {
+            "status": true,
+            "rtime": 30.24,
+            "mempeak": "50216 KiB",
+            "garbage": 20,
+            "cdiags": 50,
+            "diags": 30,
+            "idiags": 2753
+        },
+        "iscas85-mobs/c880/c880mut499p.wcnf": {
+            "status": true,
+            "rtime": 164.112,
+            "mempeak": "55892 KiB",
+            "garbage": 12677,
+            "cdiags": 12749,
+            "diags": 72,
+            "idiags": 2845
+        },
+        "iscas85-mobs/c1908/c1908mut756n.wcnf": {
+            "status": false,
+            "rtime": 1800.06,
+            "mempeak": "211016 KiB",
+            "diags": 46
+        },
+        "iscas85-mobs/c17/c17mut10p.wcnf": {
+            "status": true,
+            "rtime": 0.04,
+            "mempeak": "0 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 43
+        },
+        "iscas85-mobs/c2670/c2670mut1466n.wcnf": {
+            "status": true,
+            "rtime": 584.352,
+            "mempeak": "53304 KiB",
+            "garbage": 0,
+            "cdiags": 45,
+            "diags": 45,
+            "idiags": 4376
+        },
+        "iscas85-mobs/c1908/c1908mut1426p.wcnf": {
+            "status": false,
+            "rtime": 1800.04,
+            "mempeak": "200880 KiB",
+            "diags": 39
+        },
+        "iscas85-mobs/c880/c880mut281p.wcnf": {
+            "status": true,
+            "rtime": 30.352,
+            "mempeak": "50348 KiB",
+            "garbage": 842,
+            "cdiags": 880,
+            "diags": 38,
+            "idiags": 1661
+        },
+        "iscas85-mobs/c17/c17mut8p.wcnf": {
+            "status": true,
+            "rtime": 0.036,
+            "mempeak": "0 KiB",
+            "garbage": 0,
+            "cdiags": 4,
+            "diags": 4,
+            "idiags": 19
+        },
+        "iscas85-mobs/c1908/c1908mut1470n.wcnf": {
+            "status": true,
+            "rtime": 259.88,
+            "mempeak": "52272 KiB",
+            "garbage": 0,
+            "cdiags": 36,
+            "diags": 36,
+            "idiags": 1260
+        },
+        "iscas85-mobs/c499/c499mut418n.wcnf": {
+            "status": true,
+            "rtime": 6.412,
+            "mempeak": "49644 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c880/c880mut761p.wcnf": {
+            "status": true,
+            "rtime": 30.732,
+            "mempeak": "50480 KiB",
+            "garbage": 0,
+            "cdiags": 51,
+            "diags": 51,
+            "idiags": 4076
+        },
+        "iscas85-mobs/c1908/c1908mut1256p.wcnf": {
+            "status": false,
+            "rtime": 1800.04,
+            "mempeak": "52380 KiB",
+            "diags": 66,
+            "idiags": 1676
+        },
+        "iscas85-mobs/c1908/c1908mut1402n.wcnf": {
+            "status": false,
+            "rtime": 1800.05,
+            "mempeak": "52252 KiB",
+            "diags": 36,
+            "idiags": 1224
+        },
+        "iscas85-mobs/c3540/c3540mut255p.wcnf": {
+            "status": true,
+            "rtime": 1406.17,
+            "mempeak": "54696 KiB",
+            "garbage": 8,
+            "cdiags": 90,
+            "diags": 82,
+            "idiags": 5610
+        },
+        "iscas85-mobs/c2670/c2670mut1328n.wcnf": {
+            "status": true,
+            "rtime": 596.968,
+            "mempeak": "53424 KiB",
+            "garbage": 0,
+            "cdiags": 33,
+            "diags": 33,
+            "idiags": 3152
+        },
+        "iscas85-mobs/c432/c432mut267p.wcnf": {
+            "status": true,
+            "rtime": 3.944,
+            "mempeak": "49552 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c880/c880mut269p.wcnf": {
+            "status": false,
+            "rtime": 1800.02,
+            "mempeak": "51508 KiB",
+            "diags": 87,
+            "idiags": 3044
+        },
+        "iscas85-mobs/c880/c880mut245p.wcnf": {
+            "status": true,
+            "rtime": 29.996,
+            "mempeak": "50224 KiB",
+            "garbage": 14,
+            "cdiags": 36,
+            "diags": 22,
+            "idiags": 1873
+        },
+        "iscas85-mobs/c5315/c5315mut1815n.wcnf": {
+            "status": false,
+            "rtime": 1800.05,
+            "mempeak": "59416 KiB",
+            "diags": 1
+        },
+        "iscas85-mobs/c499/c499mut348n.wcnf": {
+            "status": true,
+            "rtime": 6.46,
+            "mempeak": "49612 KiB",
+            "garbage": 0,
+            "cdiags": 18,
+            "diags": 18,
+            "idiags": 400
+        },
+        "iscas85-mobs/c880/c880mut173n.wcnf": {
+            "status": true,
+            "rtime": 31.444,
+            "mempeak": "50120 KiB",
+            "garbage": 0,
+            "cdiags": 34,
+            "diags": 34,
+            "idiags": 2908
+        },
+        "iscas85-mobs/c2670/c2670mut1146p.wcnf": {
+            "status": true,
+            "rtime": 572.284,
+            "mempeak": "53040 KiB",
+            "garbage": 0,
+            "cdiags": 6,
+            "diags": 6,
+            "idiags": 444
+        },
+        "iscas85-mobs/c1908/c1908mut1448n.wcnf": {
+            "status": true,
+            "rtime": 259.06,
+            "mempeak": "55528 KiB",
+            "garbage": 0,
+            "cdiags": 36,
+            "diags": 36,
+            "idiags": 1008
+        },
+        "iscas85-mobs/c2670/c2670mut428n.wcnf": {
+            "status": true,
+            "rtime": 591.22,
+            "mempeak": "53280 KiB",
+            "garbage": 2815,
+            "cdiags": 2896,
+            "diags": 81,
+            "idiags": 1671
+        },
+        "iscas85-mobs/c1908/c1908mut1108n.wcnf": {
+            "status": true,
+            "rtime": 255.232,
+            "mempeak": "51976 KiB",
+            "garbage": 0,
+            "cdiags": 5,
+            "diags": 5,
+            "idiags": 500
+        },
+        "iscas85-mobs/c880/c880mut589p.wcnf": {
+            "status": false,
+            "rtime": 1800.1,
+            "mempeak": "211428 KiB",
+            "diags": 29
+        },
+        "iscas85-mobs/c880/c880mut413n.wcnf": {
+            "status": true,
+            "rtime": 32.224,
+            "mempeak": "50496 KiB",
+            "garbage": 0,
+            "cdiags": 79,
+            "diags": 79,
+            "idiags": 5180
+        },
+        "iscas85-mobs/c17/c17mut10n.wcnf": {
+            "status": true,
+            "rtime": 0.048,
+            "mempeak": "48760 KiB",
+            "garbage": 0,
+            "cdiags": 2,
+            "diags": 2,
+            "idiags": 38
+        }
+    },
+    "preamble": {
+        "prog_args": "-i -v",
+        "prog_alias": "DC$^\\star$",
+        "benchmark": "iscas85-mobs",
+        "program": "dc.py",
+        "runsolver_args": "-d 2 -C 1800 -W 1820 -M 10000",
+        "file_ext": [
+            ".gz"
+        ]
+    }
+}

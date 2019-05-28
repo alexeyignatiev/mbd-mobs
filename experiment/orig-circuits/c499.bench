@@ -1,0 +1,299 @@
+# c499
+#-------------------------------------------------------------
+#
+#
+#  total number of lines in the netlist ..............   499
+#  simplistically reduced equivalent fault set size =    758
+#        lines from primary input  gates .......    41
+#        lines from primary output gates .......    32
+#        lines from interior gate outputs ......   170
+#        lines from **    59 ** fanout stems ...   256
+#
+#        avg_fanin  =  2.02,     max_fanin  =  5
+#        avg_fanout =  4.34,     max_fanout = 12
+#
+#
+#
+#
+#
+INPUT(id0)	#... primary input
+INPUT(id1)	#... primary input
+INPUT(id2)	#... primary input
+INPUT(id3)	#... primary input
+INPUT(id4)	#... primary input
+INPUT(id5)	#... primary input
+INPUT(id6)	#... primary input
+INPUT(id7)	#... primary input
+INPUT(id8)	#... primary input
+INPUT(id9)	#... primary input
+INPUT(id10)	#... primary input
+INPUT(id11)	#... primary input
+INPUT(id12)	#... primary input
+INPUT(id13)	#... primary input
+INPUT(id14)	#... primary input
+INPUT(id15)	#... primary input
+INPUT(id16)	#... primary input
+INPUT(id17)	#... primary input
+INPUT(id18)	#... primary input
+INPUT(id19)	#... primary input
+INPUT(id20)	#... primary input
+INPUT(id21)	#... primary input
+INPUT(id22)	#... primary input
+INPUT(id23)	#... primary input
+INPUT(id24)	#... primary input
+INPUT(id25)	#... primary input
+INPUT(id26)	#... primary input
+INPUT(id27)	#... primary input
+INPUT(id28)	#... primary input
+INPUT(id29)	#... primary input
+INPUT(id30)	#... primary input
+INPUT(id31)	#... primary input
+INPUT(ic0)	#... primary input
+INPUT(ic1)	#... primary input
+INPUT(ic2)	#... primary input
+INPUT(ic3)	#... primary input
+INPUT(ic4)	#... primary input
+INPUT(ic5)	#... primary input
+INPUT(ic6)	#... primary input
+INPUT(ic7)	#... primary input
+INPUT(r)	#... primary input
+#
+#
+OUTPUT(od0)	#... primary output
+OUTPUT(od1)	#... primary output
+OUTPUT(od2)	#... primary output
+OUTPUT(od3)	#... primary output
+OUTPUT(od4)	#... primary output
+OUTPUT(od5)	#... primary output
+OUTPUT(od6)	#... primary output
+OUTPUT(od7)	#... primary output
+OUTPUT(od8)	#... primary output
+OUTPUT(od9)	#... primary output
+OUTPUT(od10)	#... primary output
+OUTPUT(od11)	#... primary output
+OUTPUT(od12)	#... primary output
+OUTPUT(od13)	#... primary output
+OUTPUT(od14)	#... primary output
+OUTPUT(od15)	#... primary output
+OUTPUT(od16)	#... primary output
+OUTPUT(od17)	#... primary output
+OUTPUT(od18)	#... primary output
+OUTPUT(od19)	#... primary output
+OUTPUT(od20)	#... primary output
+OUTPUT(od21)	#... primary output
+OUTPUT(od22)	#... primary output
+OUTPUT(od23)	#... primary output
+OUTPUT(od24)	#... primary output
+OUTPUT(od25)	#... primary output
+OUTPUT(od26)	#... primary output
+OUTPUT(od27)	#... primary output
+OUTPUT(od28)	#... primary output
+OUTPUT(od29)	#... primary output
+OUTPUT(od30)	#... primary output
+OUTPUT(od31)	#... primary output
+#
+#
+#	Output		Type	Inputs...
+#	------		----	---------
+	xa0 = 	xor(	id0,	id1)
+	xa1 = 	xor(	id2,	id3)
+	xa2 = 	xor(	id4,	id5)
+	xa3 = 	xor(	id6,	id7)
+	xa4 = 	xor(	id8,	id9)
+	xa5 = 	xor(	id10,	id11)
+	xa6 = 	xor(	id12,	id13)
+	xa7 = 	xor(	id14,	id15)
+	xa8 = 	xor(	id16,	id17)
+	xa9 = 	xor(	id18,	id19)
+	xa10 = 	xor(	id20,	id21)
+	xa11 = 	xor(	id22,	id23)
+	xa12 = 	xor(	id24,	id25)
+	xa13 = 	xor(	id26,	id27)
+	xa14 = 	xor(	id28,	id29)
+	xa15 = 	xor(	id30,	id31)
+	h0 = 	and(	ic0,	r)
+	h1 = 	and(	ic1,	r)
+	h2 = 	and(	ic2,	r)
+	h3 = 	and(	ic3,	r)
+	h4 = 	and(	ic4,	r)
+	h5 = 	and(	ic5,	r)
+	h6 = 	and(	ic6,	r)
+	h7 = 	and(	ic7,	r)
+	xb0 = 	xor(	id0,	id4)
+	xc0 = 	xor(	id8,	id12)
+	xb1 = 	xor(	id1,	id5)
+	xc1 = 	xor(	id9,	id13)
+	xb2 = 	xor(	id2,	id6)
+	xc2 = 	xor(	id10,	id14)
+	xb3 = 	xor(	id3,	id7)
+	xc3 = 	xor(	id11,	id15)
+	xb4 = 	xor(	id16,	id20)
+	xc4 = 	xor(	id24,	id28)
+	xb5 = 	xor(	id17,	id21)
+	xc5 = 	xor(	id25,	id29)
+	xb6 = 	xor(	id18,	id22)
+	xc6 = 	xor(	id26,	id30)
+	xb7 = 	xor(	id19,	id23)
+	xc7 = 	xor(	id27,	id31)
+	f0 = 	xor(	xa0,	xa1)
+	f1 = 	xor(	xa2,	xa3)
+	f2 = 	xor(	xa4,	xa5)
+	f3 = 	xor(	xa6,	xa7)
+	f4 = 	xor(	xa8,	xa9)
+	f5 = 	xor(	xa10,	xa11)
+	f6 = 	xor(	xa12,	xa13)
+	f7 = 	xor(	xa14,	xa15)
+	xe0 = 	xor(	xb0,	xc0)
+	xe1 = 	xor(	xb1,	xc1)
+	xe2 = 	xor(	xb2,	xc2)
+	xe3 = 	xor(	xb3,	xc3)
+	xe4 = 	xor(	xb4,	xc4)
+	xe5 = 	xor(	xb5,	xc5)
+	xe6 = 	xor(	xb6,	xc6)
+	xe7 = 	xor(	xb7,	xc7)
+	g0 = 	xor(	f0,	f1)
+	g1 = 	xor(	f2,	f3)
+	g2 = 	xor(	f0,	f2)
+	g3 = 	xor(	f1,	f3)
+	g4 = 	xor(	f4,	f5)
+	g5 = 	xor(	f6,	f7)
+	g6 = 	xor(	f4,	f6)
+	g7 = 	xor(	f5,	f7)
+	xd0 = 	xor(	h0,	g4)
+	xd1 = 	xor(	h1,	g5)
+	xd2 = 	xor(	h2,	g6)
+	xd3 = 	xor(	h3,	g7)
+	xd4 = 	xor(	h4,	g0)
+	xd5 = 	xor(	h5,	g1)
+	xd6 = 	xor(	h6,	g2)
+	xd7 = 	xor(	h7,	g3)
+	s0 = 	xor(	xe0,	xd0)
+	s1 = 	xor(	xe1,	xd1)
+	s2 = 	xor(	xe2,	xd2)
+	s3 = 	xor(	xe3,	xd3)
+	s4 = 	xor(	xe4,	xd4)
+	s5 = 	xor(	xe5,	xd5)
+	s6 = 	xor(	xe6,	xd6)
+	s7 = 	xor(	xe7,	xd7)
+	y0a = 	not(	s0)
+	y1a = 	not(	s1)
+	y2a = 	not(	s2)
+	y0b = 	not(	s0)
+	y1b = 	not(	s1)
+	y3b = 	not(	s3)
+	y0c = 	not(	s0)
+	y2c = 	not(	s2)
+	y3c = 	not(	s3)
+	y1d = 	not(	s1)
+	y2d = 	not(	s2)
+	y3d = 	not(	s3)
+	y5i = 	not(	s5)
+	y7i = 	not(	s7)
+	y5j = 	not(	s5)
+	y6j = 	not(	s6)
+	y4k = 	not(	s4)
+	y7k = 	not(	s7)
+	y4l = 	not(	s4)
+	y6l = 	not(	s6)
+	y4a = 	not(	s4)
+	y5a = 	not(	s5)
+	y6a = 	not(	s6)
+	y4b = 	not(	s4)
+	y5b = 	not(	s5)
+	y7b = 	not(	s7)
+	y4c = 	not(	s4)
+	y6c = 	not(	s6)
+	y7c = 	not(	s7)
+	y5d = 	not(	s5)
+	y6d = 	not(	s6)
+	y7d = 	not(	s7)
+	y1i = 	not(	s1)
+	y3i = 	not(	s3)
+	y1j = 	not(	s1)
+	y2j = 	not(	s2)
+	y0k = 	not(	s0)
+	y3k = 	not(	s3)
+	y0l = 	not(	s0)
+	y2l = 	not(	s2)
+	t0 = 	and(	y0a,	y1a,	y2a,	s3)
+	t1 = 	and(	y0b,	y1b,	s2,	y3b)
+	t2 = 	and(	y0c,	s1,	y2c,	y3c)
+	t3 = 	and(	s0,	y1d,	y2d,	y3d)
+	t4 = 	and(	y4a,	y5a,	y6a,	s7)
+	t5 = 	and(	y4b,	y5b,	s6,	y7b)
+	t6 = 	and(	y4c,	s5,	y6c,	y7c)
+	t7 = 	and(	s4,	y5d,	y6d,	y7d)
+	u0 = 	or(	t0,	t1,	t2,	t3)
+	u1 = 	or(	t4,	t5,	t6,	t7)
+	wa = 	and(	s4,	y5i,	s6,	y7i,	u0)
+	wb = 	and(	s4,	y5j,	y6j,	s7,	u0)
+	wc = 	and(	y4k,	s5,	s6,	y7k,	u0)
+	wd = 	and(	y4l,	s5,	y6l,	s7,	u0)
+	we = 	and(	s0,	y1i,	s2,	y3i,	u1)
+	wf = 	and(	s0,	y1j,	y2j,	s3,	u1)
+	wg = 	and(	y0k,	s1,	s2,	y3k,	u1)
+	wh = 	and(	y0l,	s1,	y2l,	s3,	u1)
+	e0 = 	and(	s0,	wa)
+	e1 = 	and(	s1,	wa)
+	e2 = 	and(	s2,	wa)
+	e3 = 	and(	s3,	wa)
+	e4 = 	and(	s0,	wb)
+	e5 = 	and(	s1,	wb)
+	e6 = 	and(	s2,	wb)
+	e7 = 	and(	s3,	wb)
+	e8 = 	and(	s0,	wc)
+	e9 = 	and(	s1,	wc)
+	e10 = 	and(	s2,	wc)
+	e11 = 	and(	s3,	wc)
+	e12 = 	and(	s0,	wd)
+	e13 = 	and(	s1,	wd)
+	e14 = 	and(	s2,	wd)
+	e15 = 	and(	s3,	wd)
+	e16 = 	and(	s4,	we)
+	e17 = 	and(	s5,	we)
+	e18 = 	and(	s6,	we)
+	e19 = 	and(	s7,	we)
+	e20 = 	and(	s4,	wf)
+	e21 = 	and(	s5,	wf)
+	e22 = 	and(	s6,	wf)
+	e23 = 	and(	s7,	wf)
+	e24 = 	and(	s4,	wg)
+	e25 = 	and(	s5,	wg)
+	e26 = 	and(	s6,	wg)
+	e27 = 	and(	s7,	wg)
+	e28 = 	and(	s4,	wh)
+	e29 = 	and(	s5,	wh)
+	e30 = 	and(	s6,	wh)
+	e31 = 	and(	s7,	wh)
+	od0 = 	xor(	id0,	e0)
+	od1 = 	xor(	id1,	e1)
+	od2 = 	xor(	id2,	e2)
+	od3 = 	xor(	id3,	e3)
+	od4 = 	xor(	id4,	e4)
+	od5 = 	xor(	id5,	e5)
+	od6 = 	xor(	id6,	e6)
+	od7 = 	xor(	id7,	e7)
+	od8 = 	xor(	id8,	e8)
+	od9 = 	xor(	id9,	e9)
+	od10 = 	xor(	id10,	e10)
+	od11 = 	xor(	id11,	e11)
+	od12 = 	xor(	id12,	e12)
+	od13 = 	xor(	id13,	e13)
+	od14 = 	xor(	id14,	e14)
+	od15 = 	xor(	id15,	e15)
+	od16 = 	xor(	id16,	e16)
+	od17 = 	xor(	id17,	e17)
+	od18 = 	xor(	id18,	e18)
+	od19 = 	xor(	id19,	e19)
+	od20 = 	xor(	id20,	e20)
+	od21 = 	xor(	id21,	e21)
+	od22 = 	xor(	id22,	e22)
+	od23 = 	xor(	id23,	e23)
+	od24 = 	xor(	id24,	e24)
+	od25 = 	xor(	id25,	e25)
+	od26 = 	xor(	id26,	e26)
+	od27 = 	xor(	id27,	e27)
+	od28 = 	xor(	id28,	e28)
+	od29 = 	xor(	id29,	e29)
+	od30 = 	xor(	id30,	e30)
+	od31 = 	xor(	id31,	e31)

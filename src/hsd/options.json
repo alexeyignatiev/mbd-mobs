@@ -1,0 +1,104 @@
+[
+	{
+		"id": "bootstrap",
+		"opt_s": "-b",
+		"opt_l": "--bootstrap",
+		"type": "bool",
+		"has_arg": false,
+		"help": "bootstrap with disjoint sets"
+	},
+	{
+		"id": "verb",
+		"opt_s": "-v",
+		"opt_l": "--verb",
+		"type": "int",
+		"has_arg": false,
+		"values": null,
+		"help": "set level of verbosity"
+	},
+	{
+		"id": "help_flag",
+		"opt_s": "-h",
+		"opt_l": "--help",
+		"type": "bool",
+		"has_arg": false,
+		"values": null,
+		"help": "show this message"
+	},
+	{
+		"id": "reduce_coex",
+		"opt_s": "-r",
+		"opt_l": "--reduce-coex",
+		"type": "string",
+		"has_arg": true,
+		"values": [ "none", "lin", "qxp" ],
+		"help": "policy to reduce counterexamples"
+	},
+	{
+		"id": "exhaustive_reduction",
+		"opt_s": "-x",
+		"opt_l": "--ex-reduce",
+		"type": "bool",
+		"has_arg": false,
+		"values": null,
+		"help": "reduce counterexamples exhaustively (taking into account all observations)"
+	},
+	{
+		"id": "check_more",
+		"opt_s": "-c",
+		"opt_l": "--check-more",
+		"type": "bool",
+		"has_arg": false,
+		"values": null,
+		"help": "after each computed/reported diagnosis check if there are more"
+	},
+	{
+		"id": "sorted",
+		"opt_s": "-s",
+		"opt_l": "--sorted",
+		"type": "bool",
+		"has_arg": false,
+		"values": null,
+		"help": "compute smallest hitting sets first (using MaxSAT)"
+	},
+	{
+		"id": "timeout",
+		"opt_s": "-t",
+		"opt_l": "--timeout",
+		"type": "int",
+		"has_arg": true,
+		"values": null,
+		"default": 0,
+		"help": "specify a time limit"
+	},
+	{
+		"id": "ctrimming",
+		"opt_s": null,
+		"opt_l": "--ctrim",
+		"type": "int",
+		"has_arg": true,
+		"interval": "[0 .. INT_MAX]",
+		"default": 0,
+		"help": "trim unsatisfiable cores at most k times while computing explanations"
+	},
+	{
+		"id": "trimming",
+		"opt_s": null,
+		"opt_l": "--trim",
+		"type": "int",
+		"has_arg": true,
+		"interval": "[0 .. INT_MAX]",
+		"default": 0,
+		"help": "trim unsatisfiable cores at most k times"
+	},
+	{
+		"id": "enumerate",
+		"opt_s": "-e",
+		"opt_l": "--enum",
+		"type": "string",
+		"has_arg": true,
+		"interval": "[1 .. all], best",
+		"default": "1",
+		"help": "how many solutions to compute"
+	}
+]

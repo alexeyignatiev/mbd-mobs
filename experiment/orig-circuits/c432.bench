@@ -1,0 +1,227 @@
+# c432
+#-------------------------------------------------------------
+#
+#
+#  total number of lines in the netlist ..............   432
+#  simplistically reduced equivalent fault set size =    524
+#        lines from primary input  gates .......    36
+#        lines from primary output gates .......     7
+#        lines from interior gate outputs ......   153
+#        lines from **    89 ** fanout stems ...   236
+#
+#        avg_fanin  =  2.10,     max_fanin  =  9
+#        avg_fanout =  2.65,     max_fanout =  9
+#
+#
+#
+#
+#
+INPUT(1gat)	#... primary input
+INPUT(4gat)	#... primary input
+INPUT(8gat)	#... primary input
+INPUT(11gat)	#... primary input
+INPUT(14gat)	#... primary input
+INPUT(17gat)	#... primary input
+INPUT(21gat)	#... primary input
+INPUT(24gat)	#... primary input
+INPUT(27gat)	#... primary input
+INPUT(30gat)	#... primary input
+INPUT(34gat)	#... primary input
+INPUT(37gat)	#... primary input
+INPUT(40gat)	#... primary input
+INPUT(43gat)	#... primary input
+INPUT(47gat)	#... primary input
+INPUT(50gat)	#... primary input
+INPUT(53gat)	#... primary input
+INPUT(56gat)	#... primary input
+INPUT(60gat)	#... primary input
+INPUT(63gat)	#... primary input
+INPUT(66gat)	#... primary input
+INPUT(69gat)	#... primary input
+INPUT(73gat)	#... primary input
+INPUT(76gat)	#... primary input
+INPUT(79gat)	#... primary input
+INPUT(82gat)	#... primary input
+INPUT(86gat)	#... primary input
+INPUT(89gat)	#... primary input
+INPUT(92gat)	#... primary input
+INPUT(95gat)	#... primary input
+INPUT(99gat)	#... primary input
+INPUT(102gat)	#... primary input
+INPUT(105gat)	#... primary input
+INPUT(108gat)	#... primary input
+INPUT(112gat)	#... primary input
+INPUT(115gat)	#... primary input
+#
+#
+OUTPUT(223gat)	#... primary output
+OUTPUT(329gat)	#... primary output
+OUTPUT(370gat)	#... primary output
+OUTPUT(421gat)	#... primary output
+OUTPUT(430gat)	#... primary output
+OUTPUT(431gat)	#... primary output
+OUTPUT(432gat)	#... primary output
+#
+#
+#	Output		Type	Inputs...
+#	------		----	---------
+	118gat = 	not(	1gat)
+	119gat = 	not(	4gat)
+	122gat = 	not(	11gat)
+	123gat = 	not(	17gat)
+	126gat = 	not(	24gat)
+	127gat = 	not(	30gat)
+	130gat = 	not(	37gat)
+	131gat = 	not(	43gat)
+	134gat = 	not(	50gat)
+	135gat = 	not(	56gat)
+	138gat = 	not(	63gat)
+	139gat = 	not(	69gat)
+	142gat = 	not(	76gat)
+	143gat = 	not(	82gat)
+	146gat = 	not(	89gat)
+	147gat = 	not(	95gat)
+	150gat = 	not(	102gat)
+	151gat = 	not(	108gat)
+	154gat = 	nand(	118gat,	4gat)
+	157gat = 	nor(	8gat,	119gat)
+	158gat = 	nor(	14gat,	119gat)
+	159gat = 	nand(	122gat,	17gat)
+	162gat = 	nand(	126gat,	30gat)
+	165gat = 	nand(	130gat,	43gat)
+	168gat = 	nand(	134gat,	56gat)
+	171gat = 	nand(	138gat,	69gat)
+	174gat = 	nand(	142gat,	82gat)
+	177gat = 	nand(	146gat,	95gat)
+	180gat = 	nand(	150gat,	108gat)
+	183gat = 	nor(	21gat,	123gat)
+	184gat = 	nor(	27gat,	123gat)
+	185gat = 	nor(	34gat,	127gat)
+	186gat = 	nor(	40gat,	127gat)
+	187gat = 	nor(	47gat,	131gat)
+	188gat = 	nor(	53gat,	131gat)
+	189gat = 	nor(	60gat,	135gat)
+	190gat = 	nor(	66gat,	135gat)
+	191gat = 	nor(	73gat,	139gat)
+	192gat = 	nor(	79gat,	139gat)
+	193gat = 	nor(	86gat,	143gat)
+	194gat = 	nor(	92gat,	143gat)
+	195gat = 	nor(	99gat,	147gat)
+	196gat = 	nor(	105gat,	147gat)
+	197gat = 	nor(	112gat,	151gat)
+	198gat = 	nor(	115gat,	151gat)
+	199gat = 	and(	154gat,	159gat,	162gat,	165gat,	168gat,	171gat,	174gat,	177gat,	180gat)
+	203gat = 	not(	199gat)
+	213gat = 	not(	199gat)
+	223gat = 	not(	199gat)
+	224gat = 	xor(	203gat,	154gat)
+	227gat = 	xor(	203gat,	159gat)
+	230gat = 	xor(	203gat,	162gat)
+	233gat = 	xor(	203gat,	165gat)
+	236gat = 	xor(	203gat,	168gat)
+	239gat = 	xor(	203gat,	171gat)
+	242gat = 	nand(	1gat,	213gat)
+	243gat = 	xor(	203gat,	174gat)
+	246gat = 	nand(	213gat,	11gat)
+	247gat = 	xor(	203gat,	177gat)
+	250gat = 	nand(	213gat,	24gat)
+	251gat = 	xor(	203gat,	180gat)
+	254gat = 	nand(	213gat,	37gat)
+	255gat = 	nand(	213gat,	50gat)
+	256gat = 	nand(	213gat,	63gat)
+	257gat = 	nand(	213gat,	76gat)
+	258gat = 	nand(	213gat,	89gat)
+	259gat = 	nand(	213gat,	102gat)
+	260gat = 	nand(	224gat,	157gat)
+	263gat = 	nand(	224gat,	158gat)
+	264gat = 	nand(	227gat,	183gat)
+	267gat = 	nand(	230gat,	185gat)
+	270gat = 	nand(	233gat,	187gat)
+	273gat = 	nand(	236gat,	189gat)
+	276gat = 	nand(	239gat,	191gat)
+	279gat = 	nand(	243gat,	193gat)
+	282gat = 	nand(	247gat,	195gat)
+	285gat = 	nand(	251gat,	197gat)
+	288gat = 	nand(	227gat,	184gat)
+	289gat = 	nand(	230gat,	186gat)
+	290gat = 	nand(	233gat,	188gat)
+	291gat = 	nand(	236gat,	190gat)
+	292gat = 	nand(	239gat,	192gat)
+	293gat = 	nand(	243gat,	194gat)
+	294gat = 	nand(	247gat,	196gat)
+	295gat = 	nand(	251gat,	198gat)
+	296gat = 	and(	260gat,	264gat,	267gat,	270gat,	273gat,	276gat,	279gat,	282gat,	285gat)
+	300gat = 	not(	263gat)
+	301gat = 	not(	288gat)
+	302gat = 	not(	289gat)
+	303gat = 	not(	290gat)
+	304gat = 	not(	291gat)
+	305gat = 	not(	292gat)
+	306gat = 	not(	293gat)
+	307gat = 	not(	294gat)
+	308gat = 	not(	295gat)
+	309gat = 	not(	296gat)
+	319gat = 	not(	296gat)
+	329gat = 	not(	296gat)
+	330gat = 	xor(	309gat,	260gat)
+	331gat = 	xor(	309gat,	264gat)
+	332gat = 	xor(	309gat,	267gat)
+	333gat = 	xor(	309gat,	270gat)
+	334gat = 	nand(	8gat,	319gat)
+	335gat = 	xor(	309gat,	273gat)
+	336gat = 	nand(	319gat,	21gat)
+	337gat = 	xor(	309gat,	276gat)
+	338gat = 	nand(	319gat,	34gat)
+	339gat = 	xor(	309gat,	279gat)
+	340gat = 	nand(	319gat,	47gat)
+	341gat = 	xor(	309gat,	282gat)
+	342gat = 	nand(	319gat,	60gat)
+	343gat = 	xor(	309gat,	285gat)
+	344gat = 	nand(	319gat,	73gat)
+	345gat = 	nand(	319gat,	86gat)
+	346gat = 	nand(	319gat,	99gat)
+	347gat = 	nand(	319gat,	112gat)
+	348gat = 	nand(	330gat,	300gat)
+	349gat = 	nand(	331gat,	301gat)
+	350gat = 	nand(	332gat,	302gat)
+	351gat = 	nand(	333gat,	303gat)
+	352gat = 	nand(	335gat,	304gat)
+	353gat = 	nand(	337gat,	305gat)
+	354gat = 	nand(	339gat,	306gat)
+	355gat = 	nand(	341gat,	307gat)
+	356gat = 	nand(	343gat,	308gat)
+	357gat = 	and(	348gat,	349gat,	350gat,	351gat,	352gat,	353gat,	354gat,	355gat,	356gat)
+	360gat = 	not(	357gat)
+	370gat = 	not(	357gat)
+	371gat = 	nand(	14gat,	360gat)
+	372gat = 	nand(	360gat,	27gat)
+	373gat = 	nand(	360gat,	40gat)
+	374gat = 	nand(	360gat,	53gat)
+	375gat = 	nand(	360gat,	66gat)
+	376gat = 	nand(	360gat,	79gat)
+	377gat = 	nand(	360gat,	92gat)
+	378gat = 	nand(	360gat,	105gat)
+	379gat = 	nand(	360gat,	115gat)
+	380gat = 	nand(	4gat,	242gat,	334gat,	371gat)
+	381gat = 	nand(	246gat,	336gat,	372gat,	17gat)
+	386gat = 	nand(	250gat,	338gat,	373gat,	30gat)
+	393gat = 	nand(	254gat,	340gat,	374gat,	43gat)
+	399gat = 	nand(	255gat,	342gat,	375gat,	56gat)
+	404gat = 	nand(	256gat,	344gat,	376gat,	69gat)
+	407gat = 	nand(	257gat,	345gat,	377gat,	82gat)
+	411gat = 	nand(	258gat,	346gat,	378gat,	95gat)
+	414gat = 	nand(	259gat,	347gat,	379gat,	108gat)
+	415gat = 	not(	380gat)
+	416gat = 	and(	381gat,	386gat,	393gat,	399gat,	404gat,	407gat,	411gat,	414gat)
+	417gat = 	not(	393gat)
+	418gat = 	not(	404gat)
+	419gat = 	not(	407gat)
+	420gat = 	not(	411gat)
+	421gat = 	nor(	415gat,	416gat)
+	422gat = 	nand(	386gat,	417gat)
+	425gat = 	nand(	386gat,	393gat,	418gat,	399gat)
+	428gat = 	nand(	399gat,	393gat,	419gat)
+	429gat = 	nand(	386gat,	393gat,	407gat,	420gat)
+	430gat = 	nand(	381gat,	386gat,	422gat,	399gat)
+	431gat = 	nand(	381gat,	386gat,	425gat,	428gat)
+	432gat = 	nand(	381gat,	422gat,	425gat,	429gat)

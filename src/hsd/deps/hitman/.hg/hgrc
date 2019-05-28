@@ -1,0 +1,4 @@
+
+[paths]
+default = ssh://hg@gravity/aign/hitman
+
