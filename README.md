@@ -62,7 +62,7 @@ All tools were ran under [runsolver](http://www.cril.univ-artois.fr/en/software/
 
 The set of benchmarks considered in the paper contains 144 instances and can be found in the [experiment/iscas85-mobs](experiment/iscas85-mobs) directory. They are encoded into maximum satisfiability (MaxSAT) and, thus, are in the [WCNF format for MaxSAT](https://maxsat-evaluations.github.io/2019/rules.html#input).
 
-A MaxSAT formula of each instance encodes a *mutated* ISCAS85 circuit. 
+A MaxSAT formula of each instance encodes a *mutated* ISCAS85 circuit.
 The hard part of the formula encodes the flow of the target circuit while the soft clauses *activate* all the gates, i.e. enforce each gate **not** to be *abnormal*.
 
 An observation is written as a comment line starting with `o` and followed by `0`. Each observation is treated as a conjunction of literals that correspond to the input and output of a circuit, i.e. `o -1 2 12 0` represents a conjunction of literals `-1`, `2`, and `12`.
@@ -82,7 +82,8 @@ The original ISCAS85 circuits (in the ISCAS89 format) used for generating the be
   title     = {Model-Based Diagnosis with Multiple Observations},
   booktitle = {IJCAI},
   year      = {2019},
-  note      = {To Appear}
+  pages     = {1108--1115},
+  doi       = {10.24963/ijcai.2019/155}
 }
 ```
 
